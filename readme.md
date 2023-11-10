@@ -23,7 +23,7 @@ web3=web1X3
 NEXT_PUBLIC_PROJECT_ID="your_project_id"
 ```
 
-2. In each of the `examples` create `.env.local` file with following contents
+2. In each of the `examples` create `.env.local` file with following contents123123
 
 ```zsh
 VITE_PROJECT_ID="your_project_id"
